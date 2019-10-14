@@ -1,17 +1,5 @@
 <p align="center" style="font-size: 1.2rem;">React code splitting made easy. Reduce your bundle size without stress ✂️✨.</p>
 
-[![Build Status][build-badge]][build]
-[![Code Coverage][coverage-badge]][coverage]
-[![Version][version-badge]][package]
-[![MIT License][license-badge]][license]
-[![Small size][size-badge]][build-min]
-
-[![PRs Welcome][prs-badge]][prs] [![Chat][chat-badge]][chat]
-
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
-
 [**Read the intro blogpost**](https://medium.com/smooth-code/introducing-loadable-components-%EF%B8%8F-646dd3ab0aa6)
 
 ```sh
