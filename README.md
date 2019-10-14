@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/266302/27487896-6a8cc4fa-5835-11e7-8061-b481ad72a065.png" alt="loadable-components" title="Loadable Components" width="300">
-</h1>
 <p align="center" style="font-size: 1.2rem;">React code splitting made easy. Reduce your bundle size without stress ✂️✨.</p>
 
 [![Build Status][build-badge]][build]
