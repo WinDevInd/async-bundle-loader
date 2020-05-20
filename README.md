@@ -1,5 +1,6 @@
 ## Getting started
-
+If you are using latest react, webpack, babel please follow - https://github.com/gregberge/loadable-components
+This is made for the react 16.4 and below version only
 ```js
 // Routes.js
 import loadable from 'loadable-components'
