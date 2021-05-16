@@ -73,7 +73,7 @@
     "rollup-plugin-sourcemaps": "^0.4.2",
     "rollup-plugin-uglify": "^4.0.0",
     "rollup-plugin-visualizer": "^0.9.0",
-    "standard-version": "^4.4.0"
+    "standard-version": "^8.0.1"
   },
   "dependencies": {
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
