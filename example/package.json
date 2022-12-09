@@ -8,7 +8,7 @@
     "dev:client": "webpack-dev-server"
   },
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "loadable-components": "latest",
     "react": "canary",
     "react-dom": "canary",
